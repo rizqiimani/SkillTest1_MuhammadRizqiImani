@@ -1,0 +1,4 @@
+Nama: Muhammad Rizqi Imani
+Umur: 27 Tahun
+Stack: Mobile
+Bahasa Pemrograman: Dart, Kotlin, Swift, PHP
